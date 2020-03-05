@@ -1,0 +1,23 @@
+{
+    "author": "Paul Gilchrist",
+    "description": "Ballistics Drag Functions JavaScript Library",
+    "homepage": "https://github.com/PaulGilchrist/pg-drag.git",
+    "keywords": [
+        "ballistics",
+        "drag",
+        "pg-drag",
+        "npm"
+    ],
+    "license": "MIT",
+    "main": "drag",
+    "name": "pg-drag",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PaulGilchrist/pg-drag.git"
+    },
+    "version": "1.0.0",
+    "dependencies": {
+        "atmospherics": "1.0.1",
+        "pg-conversions": "1.0.1"
+    }
+}
