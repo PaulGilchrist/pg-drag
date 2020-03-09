@@ -15,9 +15,9 @@
         "type": "git",
         "url": "https://github.com/PaulGilchrist/pg-drag.git"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
-        "atmospherics": "1.0.1",
+        "pg-atmospherics": "1.0.1",
         "pg-conversions": "1.0.1"
     }
 }

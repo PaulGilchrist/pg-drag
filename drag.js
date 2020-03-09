@@ -1,4 +1,4 @@
-import atmospherics from 'atmospherics';
+import atmospherics from 'pg-atmospherics';
 import conversions from 'pg-conversions';
 import INGALS from './ingals.data';
 
